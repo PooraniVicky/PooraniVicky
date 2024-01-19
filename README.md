@@ -1,8 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm PooraniVicky</h1>
 <h3 align="center">Full stack Developer</h3>
-<img src="https://tse3.mm.bing.net/th?id=OIP.0KqoiZ3LTOwAiBtzHTeZOgHaE8&pid=Api&P=0&h=220" height="600" width="600" >
-
 
 - 🌱 I’m currently learning **Full stack developer**
 
