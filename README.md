@@ -1,7 +1,8 @@
-<img src="![image](https://github.com/PooraniVicky/PooraniVicky/assets/154896129/38b1349c-fb6c-408a-a7c6-3c6c956cb63b)
-" alt="">
+
 <h1 align="center">Hi 👋, I'm PooraniVicky</h1>
 <h3 align="center">Full stack Developer</h3>
+<img src="https://tse3.mm.bing.net/th?id=OIP.0KqoiZ3LTOwAiBtzHTeZOgHaE8&pid=Api&P=0&h=220" height="60" width="60" >
+
 
 - 🌱 I’m currently learning **Full stack developer**
 
