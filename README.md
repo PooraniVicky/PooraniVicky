@@ -19,9 +19,10 @@
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left"> 
-<a href="https://facebook.com/pooranivicky" target="_blank"> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /> </a>
-<a href="https://instagram.com/poorani_vicky" target="_blank"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a> 
+<a href="mailto:poorani2475@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a>
+<a href="https://www.linkedin.com/in/pooranivignesh05/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3> 
 <p align="left"> 
